@@ -1,0 +1,2 @@
+# wy-config
+wy config
